@@ -3,10 +3,29 @@
     <title>Classroom project</title>
     <link href="https://frathom.github.io/classroom-project/feed.xml" rel="self" />
     <link href="https://frathom.github.io/classroom-project" />
-    <updated>1970-01-01T01:00:00+01:00</updated>
+    <updated>2023-01-16T17:53:01+01:00</updated>
     <author>
         <name>Franck</name>
     </author>
     <id>https://frathom.github.io/classroom-project</id>
 
+    <entry>
+        <title>test</title>
+        <author>
+            <name>Franck</name>
+        </author>
+        <link href="https://frathom.github.io/classroom-project/test.html"/>
+        <id>https://frathom.github.io/classroom-project/test.html</id>
+
+        <updated>2023-01-16T17:53:01+01:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    
+  </p>
+            ]]>
+        </content>
+    </entry>
 </feed>

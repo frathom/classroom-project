@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://frathom.github.io/classroom-project/sitemap.xml
